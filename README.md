@@ -8,4 +8,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 #### Code 401 Reading Notes
 
 1. [Intro](./notes/intro.md)
-2. [Testing & Modules](./notes/intro.md)
+2. [Testing & Modules](./notes/testing.md)
