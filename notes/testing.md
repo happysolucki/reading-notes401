@@ -21,9 +21,9 @@ def test_should_return_lowercase_string():
 
 Before executing code, Python interpreter reads source file and define few special
 variables/global variables. If the python interpreter is running that module (the source file)
-as the main program, it sets the special \_\_name\_\_ variable to have a value “__main__”. If this
-file is being imported from another module, __name__ will be set to the module’s name. Module’s
-name is available as value to __name__ global variable. 
+as the main program, it sets the special _\_\_name\_\__ variable to have a value “_\_\_main\_\__”. If this
+file is being imported from another module, _\_\_name\_\__ will be set to the module’s name. Module’s
+name is available as value to _\_\_name\_\__ global variable. 
 
 This is important to know for cases where you might want to run a module standalone without
 having to comment out code. The following code is a nice way to do this:
