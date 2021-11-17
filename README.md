@@ -9,3 +9,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 
 1. [Intro](./notes/intro.md)
 2. [Testing & Modules](./notes/testing.md)
+3. [Reading and Writing Files + Exceptions](./notes/readwrite.md)
