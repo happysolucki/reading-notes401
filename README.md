@@ -11,3 +11,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 2. [Testing & Modules](./notes/testing.md)
 3. [Reading and Writing Files + Exceptions](./notes/readwrite.md)
 4. [Classes and Objects + Recursive Thinking](./notes/class.md)
+5. [Using Random Package, Risk Analysis, and Test Coverage](./notes/rand.md)
