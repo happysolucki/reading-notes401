@@ -12,3 +12,5 @@ his business. Definitely looking forward to accruing some new skills through thi
 3. [Reading and Writing Files + Exceptions](./notes/readwrite.md)
 4. [Classes and Objects + Recursive Thinking](./notes/class.md)
 5. [Using Random Package, Risk Analysis, and Test Coverage](./notes/rand.md)
+6. [Python Scope](https://realpython.com/python-scope-legb-rule/)
+7. [List Comprehension](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
