@@ -14,3 +14,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 5. [Using Random Package, Risk Analysis, and Test Coverage](./notes/rand.md)
 6. [Python Scope](./notes/scope.md)
 7. [List Comprehension](./notes/comp.md)
+8. [Dunder Methods](./notes/dunder.md)
