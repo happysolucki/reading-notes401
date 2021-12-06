@@ -1,7 +1,8 @@
 ## About Me
 
-Hello, my name is Brandon Keefer. I've never had a real job but I have helped my uncle with some electrician work for
-his business. Definitely looking forward to accruing some new skills through this course.
+Hello, my name is Brandon Keefer. I've never had a real job but I have helped 
+my uncle with some electrician work for his business. Definitely looking 
+forward to accruing some new skills through this course.
 
 ### Table of Contents
 
@@ -15,3 +16,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 6. [Python Scope](./notes/scope.md)
 7. [List Comprehension](./notes/comp.md)
 8. [Dunder Methods](./notes/dunder.md)
+9. [Intro to Django](./notes/django_intro.md)
