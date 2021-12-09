@@ -17,4 +17,5 @@ forward to accruing some new skills through this course.
 7. [List Comprehension](./notes/comp.md)
 8. [Dunder Methods](./notes/dunder.md)
 9. [Intro to Django](./notes/django_intro.md)
-10. [Django Forms](./notes/django_forms.md)
+10. [Django Models](./notes/django_models.md)
+11. [Django Forms](./notes/django_forms.md)
