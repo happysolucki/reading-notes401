@@ -19,3 +19,4 @@ forward to accruing some new skills through this course.
 9. [Intro to Django](./notes/django_intro.md)
 10. [Django Models](./notes/django_models.md)
 11. [Django Forms](./notes/django_forms.md)
+12. [Django Custom User Model](./notes/user_models.md)
