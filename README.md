@@ -20,3 +20,4 @@ forward to accruing some new skills through this course.
 10. [Django Models](./notes/django_models.md)
 11. [Django Forms](./notes/django_forms.md)
 12. [Django Custom User Model](./notes/user_models.md)
+12. [Django REST Framework & Docker](./notes/docker.md)
