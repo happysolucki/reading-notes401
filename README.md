@@ -22,3 +22,4 @@ forward to accruing some new skills through this course.
 12. [Django Custom User Model](./notes/user_models.md)
 13. [Django REST Framework & Docker](./notes/docker.md)
 14. [Authentication and Production Server](./notes/authprod.md)
+14. [API Deployment](./notes/api.md)
